@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/athurg/grafana"
+	"github.com/go-http/grafana"
 )
 
 var (
